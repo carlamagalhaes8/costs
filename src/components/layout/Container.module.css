@@ -1,0 +1,20 @@
+.container{
+    width: 1200px; /* limite de largura e a altura ocupa 100% */
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    flex-wrap: wrap; /* se os elementos ultrapassarem a largura, quebrar a linha */
+}
+
+.min-height{
+    min-height: 75%;
+}
+
+.start{
+    justify-content: flex-start; /* alinha os elementos no início do container, cancelando o de cima */
+}
+
+.column{
+    flex-direction: column;
+    justify-content: flex-start;
+}
