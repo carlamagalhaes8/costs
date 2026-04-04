@@ -8,7 +8,21 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0
+      "cost": 450,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "434",
+          "description": "teste",
+          "id": "6df67ba1-5b83-4a00-bff4-e87c625c5f1c"
+        },
+        {
+          "name": "teste",
+          "cost": "16",
+          "description": "teste",
+          "id": "872b76cf-f1a1-4b02-928f-a980080272ee"
+        }
+      ]
     }
   ],
   "categories": [
