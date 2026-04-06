@@ -8,25 +8,13 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 473,
+      "cost": 454,
       "services": [
         {
           "name": "teste",
-          "cost": "434",
-          "description": "teste",
-          "id": "6df67ba1-5b83-4a00-bff4-e87c625c5f1c"
-        },
-        {
-          "name": "teste",
-          "cost": "16",
-          "description": "teste",
-          "id": "872b76cf-f1a1-4b02-928f-a980080272ee"
-        },
-        {
-          "name": "teste4",
-          "cost": "23",
-          "description": "43s",
-          "id": "0e3cf297-795b-4919-9d1a-0c211c70cd5f"
+          "cost": "454",
+          "description": "tesete",
+          "id": "0458f2b8-7dd6-4e6b-89cd-083edca2a1e1"
         }
       ]
     }
